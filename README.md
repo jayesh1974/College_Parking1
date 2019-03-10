@@ -8,4 +8,4 @@ After their college hours are done, students or faculty members (consider only s
 
 This project is made using Android Studio and SQLite database. 
 
-Screenshots - https://github.com/jayesh1974/College_Parking1/issues/2#issue-419211509
+# Screenshots - https://github.com/jayesh1974/College_Parking1/issues/2#issue-419211509
