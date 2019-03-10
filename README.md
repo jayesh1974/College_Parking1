@@ -7,5 +7,3 @@ A person can confirm his/her parking space by entering their SAP ID which is uni
 After their college hours are done, students or faculty members (consider only student for this project) can cancel their reservation by clicking on their SAP ID from the view list which deletes it from the database. 
 
 This project is made using Android Studio and SQLite database. 
-
-![alt text](C:\Users\hp\Desktop\PIC1)
