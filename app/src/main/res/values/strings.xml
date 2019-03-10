@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">College_Parking</string>
+    <string name="faculty">FACULTY</string>
+    <string name="student">STUDENT</string>
+    <string name="student_parking">Student Parking</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="open">Open</string>
+    <string name="_01">6</string>
+    <string name="booked">Booked</string>
+    <string name="_0">0</string>
+    <string name="hello">Hello</string>
+    <string name="student_id">Student ID</string>
+    <string name="student_sap_id">Student SAP ID</string>
+</resources>
